@@ -12,7 +12,7 @@
 
 <p align="left"><br>🔭 Backend developer in progress. <br>
   📚 Currently studying at UTN (Universidad Tecnológica Nacional) in Mar del Plata, Argentina.<br>
-  🍀 Having a balnaced life is key for being happy.<br>
+  🍀 Having a balanced life is key for being happy.<br>
 </p>
 
 
@@ -34,7 +34,7 @@
 </ul>
 <!------------------------------------------------------------------------------------------------------>
  
-## 🛠️Lenguages and Tools
+## 🛠️Languages and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
